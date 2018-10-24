@@ -45,7 +45,7 @@
     "cli-table": "^0.3.0",
     "colors": "^1.1.0",
     "commander": "^2.9.0",
-    "findup-sync": "^0.2.1",
+    "findup-sync": "^0.3.0",
     "fw": "^0.1.0",
     "hu": "^0.1.0",
     "mkdirp": "^0.5.0",
